@@ -1,4 +1,4 @@
-#  This program ask user How old the are
+#  This program ask user How old the are and calculate age on dacades and years
 
 age = int(input("How old are you?\n "))
 
